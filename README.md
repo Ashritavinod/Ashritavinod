@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a **B.Tech in Computer Science Engineering** 
 Here are some of the notable projects I’ve worked on:
 
 1. **MediBot**: A **Generative AI-powered healthcare chatbot** that understands **Hinglish and English**. It provides **summarized and contextually relevant responses** using fine-tuned NLP models and multimodal technologies.  
-   [MediBot Repository](#)
+   [MediBot Repository](#https://github.com/Ashritavinod/MediBot_Hinglish_English)
 
 2. **Clinical Notes Disease Prediction using BERT**: Developed a disease prediction model using **BERT** for classifying diseases from **clinical notes**, enabling automated diagnosis.  
    [Clinical Notes Disease Prediction Repository](#)
