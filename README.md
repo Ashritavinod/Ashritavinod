@@ -37,10 +37,10 @@ Here are some of the notable projects I’ve worked on:
 7. **LangChain for Knowledge-Based Applications**: Developed a **dynamic conversational agent** using **LangChain**, integrating external knowledge sources for **context-based responses**.  
    [LangChain Repository](https://github.com/Ashritavinod/langchain-huggingface-demo)
 
-8.**Stroke Prediction Model**:Developed a machine learning-based model to predict the likelihood of a stroke based on patient data, including medical history, lifestyle factors, and clinical measures. The model uses various classification algorithms (e.g., Random Forest, Logistic Regression) to provide accurate predictions, aiming to assist healthcare professionals in early stroke detection and intervention.
+ 8.**Stroke Prediction Model**:Developed a machine learning-based model to predict the likelihood of a stroke based on patient data, including medical history, lifestyle factors, and clinical measures. The model uses various classification algorithms (e.g., Random Forest, Logistic Regression) to provide accurate predictions, aiming to assist healthcare professionals in early stroke detection and intervention.
  [Stroke Prediction Repository](https://github.com/Ashritavinod/Stroke-Prediction-)
 
-9.**Agriguard**:Created a system to detect plant diseases in agricultural fields using machine learning and computer vision techniques. The model leverages image processing and classification algorithms to identify common plant diseases from images, providing farmers with timely insights for crop management and disease prevention. The system aims to enhance crop health monitoring, reduce pesticide use, and improve agricultural productivity.
+ 9.**Agriguard**:Created a system to detect plant diseases in agricultural fields using machine learning and computer vision techniques. The model leverages image processing and classification algorithms to identify common plant diseases from images, providing farmers with timely insights for crop management and disease prevention. The system aims to enhance crop health monitoring, reduce pesticide use, and improve agricultural productivity.
  [Agriguard Rover Repository](https://github.com/Ashritavinod/Agriguard-Rover)
 
 ### 📚 **Education**
