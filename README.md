@@ -6,14 +6,13 @@ Welcome to my GitHub profile! I am a **B.Tech graduate in Computer Science Engin
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Python, C++, JavaScript  
+- **Languages**: Python  
 - **AI/ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, Keras  
 - **NLP**: Hugging Face Transformers, BERT, GPT, Pegasus, TF-IDF, Word2Vec, LangChain, NLTK, Gensim, spaCy  
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Computer Vision**: OpenCV, CNNs  
-- **Deployment & Tools**: Streamlit, Docker, Git, Jupyter, VS Code  
-- **Databases**: Firebase, MongoDB, MySQL  
-- **Cloud**: AWS, Google Cloud, Microsoft Azure  
+- **Deployment & Tools**: Streamlit, Docker, Git, Jupyter
+- **Databases**: MongoDB, MySQL  
 
 ---
 
