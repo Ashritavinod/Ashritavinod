@@ -1,66 +1,102 @@
-# Ashrita Vinod's GitHub
+# 👩‍💻 Ashrita Vinod's GitHub
 
-Welcome to my GitHub profile! I am a **B.Tech in Computer Science Engineering** graduate with a specialization in **AI and ML**. My passion lies in creating innovative AI solutions, and I have experience working on diverse projects spanning areas like **Natural Language Processing (NLP)**, **Generative AI**, and **Robotics**.
-
-### 🔧 **Skills & Technologies**
-
-- **Languages**: Python, C++, JavaScript
-- **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, OpenCV
-- **Natural Language Processing**: BERT, GPT, Pegasus, TF-IDF, Word2Vec, LangChain
-- **Tools**: Git, Docker, Jupyter, VS Code
-- **Libraries**: Transformers, Diffusers, NLTK, Gensim, SpaCy, Evaluate
-- **Databases**: MongoDB, MySQL, Firebase
-- **Cloud Platforms**: AWS, Google Cloud, Microsoft Azure
-
-### 👩‍💻 **Projects**
-
-Here are some of the notable projects I’ve worked on:
-
-1. **MediBot**: A **Generative AI-powered healthcare chatbot** that understands **Hinglish and English**. It provides **summarized and contextually relevant responses** using fine-tuned NLP models and multimodal technologies.  
-   [MediBot Repository](https://github.com/Ashritavinod/MediBot_Hinglish_English)
-
-2. **Clinical Notes Disease Prediction using BERT**: Developed a disease prediction model using **BERT** for classifying diseases from **clinical notes**, enabling automated diagnosis.  
-   [Clinical Notes Disease Prediction Repository](https://github.com/Ashritavinod/Clinical-notes-diagnosis-prediction)
-
-3. **Text Summarization using Pegasus on SAMSum Dataset**: Fine-tuned **Pegasus** for **abstractive summarization** of dialogues, enabling efficient conversation summarization.  
-   [Text Summarization Repository](https://github.com/Ashritavinod/Abstractive-Text-Summarization-using-Pegasus-and-SAMSum-Dataset)
-
-4. **Text-to-Image Generation using Stable Diffusion**: Leveraged **Stable Diffusion** to generate **text-to-image outputs**, exploring creative AI applications in visual content generation.  
-   [Text-to-Image Generation Repository](https://github.com/Ashritavinod/Text-to-Image-Generation-with-Stable-Diffusion)
-
-5. **Text-to-Speech Conversion using suno/bark-small**: Built a **text-to-speech system** using the **suno/bark-small** model, converting text into real-time audio.  
-   [Text-to-Speech Conversion Repository](https://github.com/Ashritavinod/Text-to-Speech-using-Suno-Bark-Model-Hugging-Face-Transformers-)
-
-6. **NLP Fundamentals with Bag-of-Words, TF-IDF & Word2Vec**: Applied fundamental **NLP techniques** to process text data and extract features for various analysis tasks.  
-   [NLP Fundamentals Repository](https://github.com/Ashritavinod/NLP-Techniques-Exploration-Bag-of-Words-TF-IDF-and-Word2Vec)
-
-7. **LangChain for Knowledge-Based Applications**: Developed a **dynamic conversational agent** using **LangChain**, integrating external knowledge sources for **context-based responses**.  
-   [LangChain Repository](https://github.com/Ashritavinod/langchain-huggingface-demo)
-
- 8.**Stroke Prediction Model**:Developed a machine learning-based model to predict the likelihood of a stroke based on patient data, including medical history, lifestyle factors, and clinical measures. The model uses various classification algorithms (e.g., Random Forest, Logistic Regression) to provide accurate predictions, aiming to assist healthcare professionals in early stroke detection and intervention.
- [Stroke Prediction Repository](https://github.com/Ashritavinod/Stroke-Prediction-)
-
- 9.**Agriguard**:Created a system to detect plant diseases in agricultural fields using machine learning and computer vision techniques. The model leverages image processing and classification algorithms to identify common plant diseases from images, providing farmers with timely insights for crop management and disease prevention. The system aims to enhance crop health monitoring, reduce pesticide use, and improve agricultural productivity.
- [Agriguard Rover Repository](https://github.com/Ashritavinod/Agriguard-Rover)
-
-### 📚 **Education**
-
-- **B.Tech in Computer Science Engineering** with specialization in **AI and ML** - VIT Bhopal
-
-### 🛠️ **Tools & Technologies I Use**
-
-- **Deep Learning**: TensorFlow, PyTorch, Keras
-- **NLP**: Hugging Face Transformers, spaCy, Gensim
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
-- **Version Control**: Git, GitHub
-- **Deployment**: Docker,Streamlit
-
-### 💬 **Connect with Me**
-
-- [LinkedIn](https://www.linkedin.com/in/ashrita-vinod-209b37251)
-
-- [Email](mailto:ashritavinod21@email.com)
+Welcome to my GitHub profile! I am a **B.Tech graduate in Computer Science Engineering** with a specialization in **Artificial Intelligence and Machine Learning** from VIT Bhopal. I'm passionate about building real-world AI applications that solve meaningful problems in domains like healthcare, agriculture, and education.
 
 ---
 
-Feel free to explore the repositories, contribute, or reach out to me for collaborations or discussions!
+## 🛠️ Skills & Technologies
+
+- **Languages**: Python, C++, JavaScript  
+- **AI/ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, Keras  
+- **NLP**: Hugging Face Transformers, BERT, GPT, Pegasus, TF-IDF, Word2Vec, LangChain, NLTK, Gensim, spaCy  
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Computer Vision**: OpenCV, CNNs  
+- **Deployment & Tools**: Streamlit, Docker, Git, Jupyter, VS Code  
+- **Databases**: Firebase, MongoDB, MySQL  
+- **Cloud**: AWS, Google Cloud, Microsoft Azure  
+
+---
+
+## 🚀 Projects
+
+Here are some of my key projects:
+
+### 1. [MediBot](https://github.com/Ashritavinod/MediBot_Hinglish_English)
+A generative AI-powered healthcare chatbot that understands both **Hinglish and English**, summarizes medical content, and provides personalized, context-aware responses.
+
+👉 *One-line Summary*: Multilingual chatbot that summarizes and explains health topics using LLMs.
+
+---
+
+### 2. [Clinical Notes Disease Prediction using BERT](https://github.com/Ashritavinod/Clinical-notes-diagnosis-prediction)
+Used **BERT** to classify diseases based on clinical notes for automatic diagnosis in healthcare systems.
+
+👉 *One-line Summary*: BERT-based classifier for disease prediction from clinical text.
+
+---
+
+### 3. [Abstractive Text Summarization using Pegasus](https://github.com/Ashritavinod/Abstractive-Text-Summarization-using-Pegasus-and-SAMSum-Dataset)
+Fine-tuned the **Pegasus model** on the SAMSum dataset to perform abstractive dialogue summarization.
+
+👉 *One-line Summary*: Dialogue summarization using Pegasus on real-world chat data.
+
+---
+
+### 4. [Text-to-Image Generation with Stable Diffusion](https://github.com/Ashritavinod/Text-to-Image-Generation-with-Stable-Diffusion)
+Explored **Stable Diffusion** to convert natural language prompts into AI-generated images.
+
+👉 *One-line Summary*: Generated visual content from text using diffusion models.
+
+---
+
+### 5. [Text-to-Speech using Suno Bark Model](https://github.com/Ashritavinod/Text-to-Speech-using-Suno-Bark-Model-Hugging-Face-Transformers-)
+Used **suno/bark-small** to convert written text into real-time audio using Hugging Face Transformers.
+
+👉 *One-line Summary*: TTS system using Bark model for realistic audio generation.
+
+---
+
+### 6. [NLP Techniques Exploration (BoW, TF-IDF, Word2Vec)](https://github.com/Ashritavinod/NLP-Techniques-Exploration-Bag-of-Words-TF-IDF-and-Word2Vec)
+Demonstrated core NLP techniques with scikit-learn and Gensim for feature extraction and analysis.
+
+👉 *One-line Summary*: Hands-on project showcasing foundational NLP techniques.
+
+---
+
+### 7. [LangChain Hugging Face Demo](https://github.com/Ashritavinod/langchain-huggingface-demo)
+Built a **LangChain-based conversational agent** that queries knowledge sources for intelligent Q&A.
+
+👉 *One-line Summary*: Knowledge-aware chatbot using LangChain and Hugging Face.
+
+---
+
+### 8. [Stroke Prediction Model](https://github.com/Ashritavinod/Stroke-Prediction-)
+Trained ML models to predict stroke likelihood from patient health data using classification algorithms.
+
+👉 *One-line Summary*: Stroke risk prediction using patient lifestyle and clinical data.
+
+---
+
+### 9. [AgriGuard Rover](https://github.com/Ashritavinod/Agriguard-Rover)
+Developed a computer vision-based rover that detects plant diseases in the field for smart farming.
+
+👉 *One-line Summary*: Plant disease detection rover using ML and image processing.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech)**  
+Specialization: **Artificial Intelligence & Machine Learning**  
+**VIT Bhopal University**
+
+---
+
+## 💬 Let's Connect!
+
+- 📬 [Email](mailto:ashritavinod21@email.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashrita-vinod-209b37251)
+
+---
+
+> Feel free to explore my repositories, connect with me, or collaborate on exciting AI-driven projects!
