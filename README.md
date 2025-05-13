@@ -23,63 +23,49 @@ Here are some of my key projects:
 ### 1. [MediBot](https://github.com/Ashritavinod/MediBot_Hinglish_English)
 A generative AI-powered healthcare chatbot that understands both **Hinglish and English**, summarizes medical content, and provides personalized, context-aware responses.
 
-👉 *One-line Summary*: Multilingual chatbot that summarizes and explains health topics using LLMs.
 
 ---
 
 ### 2. [Clinical Notes Disease Prediction using BERT](https://github.com/Ashritavinod/Clinical-notes-diagnosis-prediction)
 Used **BERT** to classify diseases based on clinical notes for automatic diagnosis in healthcare systems.
 
-👉 *One-line Summary*: BERT-based classifier for disease prediction from clinical text.
-
 ---
 
 ### 3. [Abstractive Text Summarization using Pegasus](https://github.com/Ashritavinod/Abstractive-Text-Summarization-using-Pegasus-and-SAMSum-Dataset)
 Fine-tuned the **Pegasus model** on the SAMSum dataset to perform abstractive dialogue summarization.
-
-👉 *One-line Summary*: Dialogue summarization using Pegasus on real-world chat data.
 
 ---
 
 ### 4. [Text-to-Image Generation with Stable Diffusion](https://github.com/Ashritavinod/Text-to-Image-Generation-with-Stable-Diffusion)
 Explored **Stable Diffusion** to convert natural language prompts into AI-generated images.
 
-👉 *One-line Summary*: Generated visual content from text using diffusion models.
 
 ---
 
 ### 5. [Text-to-Speech using Suno Bark Model](https://github.com/Ashritavinod/Text-to-Speech-using-Suno-Bark-Model-Hugging-Face-Transformers-)
 Used **suno/bark-small** to convert written text into real-time audio using Hugging Face Transformers.
 
-👉 *One-line Summary*: TTS system using Bark model for realistic audio generation.
-
 ---
 
 ### 6. [NLP Techniques Exploration (BoW, TF-IDF, Word2Vec)](https://github.com/Ashritavinod/NLP-Techniques-Exploration-Bag-of-Words-TF-IDF-and-Word2Vec)
 Demonstrated core NLP techniques with scikit-learn and Gensim for feature extraction and analysis.
 
-👉 *One-line Summary*: Hands-on project showcasing foundational NLP techniques.
 
 ---
 
 ### 7. [LangChain Hugging Face Demo](https://github.com/Ashritavinod/langchain-huggingface-demo)
 Built a **LangChain-based conversational agent** that queries knowledge sources for intelligent Q&A.
 
-👉 *One-line Summary*: Knowledge-aware chatbot using LangChain and Hugging Face.
-
 ---
 
 ### 8. [Stroke Prediction Model](https://github.com/Ashritavinod/Stroke-Prediction-)
 Trained ML models to predict stroke likelihood from patient health data using classification algorithms.
-
-👉 *One-line Summary*: Stroke risk prediction using patient lifestyle and clinical data.
 
 ---
 
 ### 9. [AgriGuard Rover](https://github.com/Ashritavinod/Agriguard-Rover)
 Developed a computer vision-based rover that detects plant diseases in the field for smart farming.
 
-👉 *One-line Summary*: Plant disease detection rover using ML and image processing.
 
 ---
 
